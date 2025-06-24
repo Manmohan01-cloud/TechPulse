@@ -2,7 +2,7 @@ export const CONFIG = { JWT: "", REFRESH_JWT: '' };
 export const AUTH_API_BASE_URL = "https://dummyjson.com";
 export const API_TIMEOUT = 30000;
 
-export const NEWS_API_KEY = "34a6fba8b289e803bdf582a45c7aa876"; //Mediastack key
+export const NEWS_API_KEY = "YOUR_MEDIASTACK_API_KEY"; //Mediastack key
 export const NEWS_API_BASE_URL = "http://api.mediastack.com/v1/";
 
 export const TECH_CATEGORIES = {
