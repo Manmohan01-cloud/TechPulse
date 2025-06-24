@@ -45,7 +45,7 @@ const NewsCard = (props) => {
         </View>
 
         <View style={styles.contentContainer}>
-            <View style={{ flex: 1 }}>
+            <View style={styles.textContainer}>
                 <Text style={styles.headline} numberOfLines={2}>{headline}</Text>
                 <Text style={styles.summary} numberOfLines={3}>{summary}</Text>
             </View>
@@ -56,7 +56,7 @@ const NewsCard = (props) => {
                     <Feather
                         name="bookmark"
                         size={20}
-                        color={isSaved ? theme.primary : theme.subtleText}
+                        color={isSaved ? theme.primary : theme.text}
                         fill={isSaved ? theme.primary : 'none'}
                     />
                 </TouchableOpacity>

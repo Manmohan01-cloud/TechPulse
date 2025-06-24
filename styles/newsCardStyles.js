@@ -32,6 +32,10 @@ const getNewsCardStyles = (colors) => StyleSheet.create({
     padding: 12,
     flex: 1,
   },
+  textContainer: {
+    flex: 1,
+    overflow: 'hidden',
+  },
   headline: {
     fontSize: 15,
     fontWeight: "bold",
@@ -47,7 +51,7 @@ const getNewsCardStyles = (colors) => StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginTop: 10,
+    marginTop: 8,
   },
   sourceText: {
     fontSize: 12,
