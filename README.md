@@ -16,7 +16,7 @@ TechPulse is a modern, cross-platform mobile news application built with React N
 * **Custom Alerts**: In-app alert system for notifications and confirmations.
 
 ### Demo Video
-[![Watch the TechPulse Demo](https://youtu.be/MMxmg7gv2H8?feature=shared)
+(https://youtu.be/MMxmg7gv2H8?feature=shared)
 
 ## 👥 Contributors
 
