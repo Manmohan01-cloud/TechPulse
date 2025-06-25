@@ -106,4 +106,14 @@ If you encounter issues with package versions or dependencies after installation
 ```sh
 npx expo install --fix
 ```
-    
+
+## 📸 Screenshots
+
+Here’s a glimpse of TechPulse in action.
+
+| Light Mode                                                                                                      | Dark Mode                                                                                                     |
+| :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/home_light.png" width="250"/>   | <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/home_dark.png" width="250"/>     |
+| <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/details_light.png" width="250"/>  | <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/details_dark.png" width="250"/>  |
+| <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/search_light.png" width="250"/>   | <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/search_dark.png" width="250"/>    |
+| <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/profile_light.png" width="250"/>  | <img src="https://raw.githubusercontent.com/Manmohan01-cloud/TechPulse/main/screenshots/profile_dark.png" width="250"/>   |
